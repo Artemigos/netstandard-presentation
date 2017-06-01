@@ -1,8 +1,8 @@
 ## .NET Framework
 
-- same old {% fragment %}
-- a lot of windows specific stuff {% fragment %}
-- ...but it's windows-only (I know, it's surprising) {% fragment %}
+- same old {% include fragment.md %}
+- a lot of windows specific stuff {% include fragment.md %}
+- ...but it's windows-only (I know, it's surprising) {% include fragment.md %}
 
 Note:
 
